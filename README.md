@@ -1,7 +1,7 @@
 # Energy–Entropy Method Using Multiscale Cell Correlation to Calculate Binding Free Energies in the SAMPL8 Host–Guest Challenge
 
 <p align="center">
-  <img width="392" alt="image" src="SAMPL8.tiff">
+  <img width="600" alt="image" src="SAMPL8.tiff">
 </p>
 
 # Abstract
