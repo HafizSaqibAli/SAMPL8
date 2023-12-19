@@ -1,8 +1,7 @@
-# SAMPL8
-This repository contained files and scripts used to calculate binding free energies in the SAMPL8 Host–Guest challenge
+# Energy–Entropy Method Using Multiscale Cell Correlation to Calculate Binding Free Energies in the SAMPL8 Host–Guest Challenge
 
 <p align="center">
-  <img width="392" alt="image" src="https://github.com/HafizSaqibAli/SAMPL9/assets/88040364/4daf7b39-8393-4470-a4c7-06b138377474">
+  <img width="392" alt="image" src="SAMPL8.tiff">
 </p>
 
 # Abstract
